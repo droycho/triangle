@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+	"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="505" height="440">
+<title>Isosceles triangle</title>
+<!-- Hand drawn for Wikipedia by Saaska -->
+<rect x="0" y="0" width="505" height="440" style="stroke:none;fill:white;"/>
+<g transform="translate(92 0)" style="stroke-width:5.33;stroke:black;stroke-linecap:butt;
+	stroke-linejoin:round;fill:none;">
+<!--sides-->
+<polygon points="20,420, 300,420 160,20" />
+<!--ticks for equal sides-->
+<line x1="70" y1="215" x2="110" y2="227" />
+<line x1="70" y1="215" x2="110" y2="227" transform="translate(320,0) scale(-1,1)"/>
+<!--arcs for equal angles-->
+<path d="M89.28,420 A69.28,69.28 0 0 0 42.8867,354.609"/> 
+<path d="M89.28,420 A69.28,69.28 0 0 0 42.8867,354.609" transform="translate(320,0) scale(-1 1)"/> 
+<!--vertices-->
+<g style="fill:black">
+<circle cx="20"  cy="420" r="4.8"/>
+<circle cx="300" cy="420" r="4.8"/>
+<circle cx="160"  cy="20"  r="4.8"/>
+</g>
+</g>
+</svg>

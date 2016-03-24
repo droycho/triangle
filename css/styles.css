@@ -1,0 +1,16 @@
+.equilateral {
+  display: none;
+}
+
+.isosceles {
+  display: none;
+}
+
+.scalene {
+  display: none;
+}
+
+.resultimg {
+  max-height: 500px;
+  max-width: auto;
+}
